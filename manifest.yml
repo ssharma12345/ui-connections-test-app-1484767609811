@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: stage1.mybluemix.net
+  name: ui-connections-test-app
+  host: ui-connections-test-app-1484767576424
+  disk_quota: 1024M
